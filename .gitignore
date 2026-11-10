@@ -1,0 +1,17 @@
+# Generated executables and assembler outputs
+/fasmx
+*.o
+*.bin
+*.fas
+
+# Crash dumps
+core
+core.*
+
+# Local application settings
+fasmx.ini
+
+# Local agent configuration
+/.agents/
+/.codex/
+/.aws/
